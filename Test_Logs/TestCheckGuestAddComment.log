@@ -1,15 +1,15 @@
-2024-03-28 04:00:45,774 - TestCheckGuestAddComment - INFO - 1. Open Browser and visit https://onlinebloggertest.blogspot.com/
-2024-03-28 04:00:51,348 - TestCheckGuestAddComment - INFO - Browser opened successfully!
-2024-03-28 04:00:54,354 - TestCheckGuestAddComment - INFO - Guest page is True 
-2024-03-28 04:00:57,387 - TestCheckGuestAddComment - INFO - Post is visible 
-2024-03-28 04:00:57,387 - TestCheckGuestAddComment - INFO - 2 - Click "Post a Comment" button 
-2024-03-28 04:01:05,711 - TestCheckGuestAddComment - INFO - 3 - Click "Sign in With Google" button
-2024-03-28 04:01:09,221 - TestCheckGuestAddComment - INFO - 4 - Enter email and Password then login
-2024-03-28 04:01:12,044 - TestCheckGuestAddComment - INFO - Guest Login successfully
-2024-03-28 04:01:12,044 - TestCheckGuestAddComment - INFO - 5 - Click Enter Comment textbox
-2024-03-28 04:01:16,257 - TestCheckGuestAddComment - INFO - 6 - Enter a comment
-2024-03-28 04:01:19,406 - TestCheckGuestAddComment - INFO - Comment entered successfully
-2024-03-28 04:01:19,407 - TestCheckGuestAddComment - INFO - 7 - Click Publish button
-2024-03-28 04:01:23,510 - TestCheckGuestAddComment - INFO - 8 - Check comment if it is added or not
-2024-03-28 04:01:23,798 - TestCheckGuestAddComment - INFO - Comment added Successfully
-2024-03-28 04:01:23,979 - TestCheckGuestAddComment - INFO - 9 - Browser closed
+2024-03-28 04:48:08,504 - TestCheckGuestAddComment - INFO - 1. Open Browser and visit https://onlinebloggertest.blogspot.com/
+2024-03-28 04:48:13,485 - TestCheckGuestAddComment - INFO - Browser opened successfully!
+2024-03-28 04:48:16,500 - TestCheckGuestAddComment - INFO - Guest page is True 
+2024-03-28 04:48:19,528 - TestCheckGuestAddComment - INFO - Post is visible 
+2024-03-28 04:48:19,528 - TestCheckGuestAddComment - INFO - 2 - Click "Post a Comment" button 
+2024-03-28 04:48:27,833 - TestCheckGuestAddComment - INFO - 3 - Click "Sign in With Google" button
+2024-03-28 04:48:31,282 - TestCheckGuestAddComment - INFO - 4 - Enter email and Password then login
+2024-03-28 04:48:33,841 - TestCheckGuestAddComment - INFO - Guest Login successfully
+2024-03-28 04:48:33,841 - TestCheckGuestAddComment - INFO - 5 - Click Enter Comment textbox
+2024-03-28 04:48:37,493 - TestCheckGuestAddComment - INFO - 6 - Enter a comment
+2024-03-28 04:48:40,647 - TestCheckGuestAddComment - INFO - Comment entered successfully
+2024-03-28 04:48:40,647 - TestCheckGuestAddComment - INFO - 7 - Click Publish button
+2024-03-28 04:48:44,742 - TestCheckGuestAddComment - INFO - 8 - Check comment if it is added or not
+2024-03-28 04:48:48,299 - TestCheckGuestAddComment - INFO - Comment added Successfully
+2024-03-28 04:48:48,456 - TestCheckGuestAddComment - INFO - 9 - Browser closed

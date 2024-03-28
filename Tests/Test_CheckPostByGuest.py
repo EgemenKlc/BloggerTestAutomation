@@ -10,6 +10,7 @@ from Configurations import Config, BaseFunctions
 4 - Close browser
 """
 class TestCheckPostByGuest:
+
     @pytest.mark.order(4)
     def test_check_post_by_guest(self):
         # Setup logger with class name

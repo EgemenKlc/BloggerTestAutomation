@@ -20,6 +20,7 @@ from Configurations import Config,BaseFunctions
       
 """
 class TestCheckEditPostPage:
+
     @pytest.mark.order(3)
     def test_check_edit_post_page(self):
         self.logger = BaseFunctions.loggerInit(self, self.__class__.__name__)
