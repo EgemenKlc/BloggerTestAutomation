@@ -1,0 +1,14 @@
+2024-03-28 04:00:33,042 - TestCheckPostByGuest - INFO - 1. Open Browser and visit https://onlinebloggertest.blogspot.com/
+2024-03-28 04:00:39,611 - TestCheckPostByGuest - INFO - Browser opened successfully!
+2024-03-28 04:00:39,612 - TestCheckPostByGuest - INFO - 2 - Wait until page loading 
+2024-03-28 04:00:42,620 - TestCheckPostByGuest - INFO - Guest page is True 
+2024-03-28 04:00:42,620 - TestCheckPostByGuest - INFO - 3 - Check post visibility 
+2024-03-28 04:00:45,635 - TestCheckPostByGuest - INFO - post is visible 
+2024-03-28 04:00:45,765 - TestCheckPostByGuest - INFO - 4. browser Closed
+2024-03-28 04:04:47,210 - TestCheckPostByGuest - INFO - 1. Open Browser and visit https://onlinebloggertest.blogspot.com/
+2024-03-28 04:04:51,448 - TestCheckPostByGuest - INFO - Browser opened successfully!
+2024-03-28 04:04:51,448 - TestCheckPostByGuest - INFO - 2 - Wait until page loading 
+2024-03-28 04:04:54,468 - TestCheckPostByGuest - INFO - Guest page is True 
+2024-03-28 04:04:54,468 - TestCheckPostByGuest - INFO - 3 - Check post visibility 
+2024-03-28 04:04:57,483 - TestCheckPostByGuest - INFO - post is visible 
+2024-03-28 04:04:57,601 - TestCheckPostByGuest - INFO - 4. browser Closed

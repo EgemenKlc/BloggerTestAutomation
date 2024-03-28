@@ -1,0 +1,9 @@
+2024-03-28 03:59:09,327 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 03:59:14,245 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-03-28 03:59:14,245 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-03-28 03:59:14,313 - TestCheckLoginPage - INFO - login page is ture and Signin clicked
+2024-03-28 03:59:14,314 - TestCheckLoginPage - INFO - 3.Enter your email address and password, then log in.
+2024-03-28 03:59:21,884 - TestCheckLoginPage - INFO - User logged in successfully!
+2024-03-28 03:59:21,884 - TestCheckLoginPage - INFO - 4. check the home page after login
+2024-03-28 03:59:26,414 - TestCheckLoginPage - INFO - home page is true
+2024-03-28 03:59:26,650 - TestCheckLoginPage - INFO - 5. browser Closed

@@ -1,0 +1,15 @@
+2024-03-28 04:01:23,985 - TestCheckCommentAndDeleteByAdmin - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 04:01:29,685 - TestCheckCommentAndDeleteByAdmin - INFO - Browser opened successfully!
+2024-03-28 04:01:29,685 - TestCheckCommentAndDeleteByAdmin - INFO - 2.Check the login page and press the login button
+2024-03-28 04:01:29,787 - TestCheckCommentAndDeleteByAdmin - INFO - login page is true and Signin clicked
+2024-03-28 04:01:29,787 - TestCheckCommentAndDeleteByAdmin - INFO - 3.Enter your email address and password, then log in.
+2024-03-28 04:01:36,863 - TestCheckCommentAndDeleteByAdmin - INFO - User logged in successfully!
+2024-03-28 04:01:36,863 - TestCheckCommentAndDeleteByAdmin - INFO - 4. check the home page after login
+2024-03-28 04:01:41,310 - TestCheckCommentAndDeleteByAdmin - INFO - home page is true
+2024-03-28 04:01:41,310 - TestCheckCommentAndDeleteByAdmin - INFO - 5 - Click Comment Button
+2024-03-28 04:01:47,411 - TestCheckCommentAndDeleteByAdmin - INFO - Comment Page is opened
+2024-03-28 04:01:47,411 - TestCheckCommentAndDeleteByAdmin - INFO - 6 - Check comment if it is visible and validate comment text
+2024-03-28 04:01:50,454 - TestCheckCommentAndDeleteByAdmin - INFO - 7 - Click delete icon 
+2024-03-28 04:01:55,850 - TestCheckCommentAndDeleteByAdmin - INFO - 8 - Click delete confirm button
+2024-03-28 04:02:00,938 - TestCheckCommentAndDeleteByAdmin - INFO - Comment deleted successfully
+2024-03-28 04:02:01,121 - TestCheckCommentAndDeleteByAdmin - INFO - 9 - Browser Closed

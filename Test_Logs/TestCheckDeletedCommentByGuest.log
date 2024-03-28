@@ -1,0 +1,7 @@
+2024-03-28 04:02:01,133 - TestCheckDeletedCommentByGuest - INFO - 1. Open Browser and visit https://onlinebloggertest.blogspot.com/
+2024-03-28 04:02:06,798 - TestCheckDeletedCommentByGuest - INFO - Browser opened successfully!
+2024-03-28 04:02:06,798 - TestCheckDeletedCommentByGuest - INFO - 2 - Check the post visibility
+2024-03-28 04:02:09,817 - TestCheckDeletedCommentByGuest - INFO - Post is visible
+2024-03-28 04:02:09,818 - TestCheckDeletedCommentByGuest - INFO - 3 - Check comment is deleted
+2024-03-28 04:02:09,846 - TestCheckDeletedCommentByGuest - INFO - Comment is deleted successfully
+2024-03-28 04:02:09,978 - TestCheckDeletedCommentByGuest - INFO - 4. browser Closed
