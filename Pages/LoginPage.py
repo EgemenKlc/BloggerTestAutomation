@@ -5,6 +5,7 @@ class LoginPage:
     class locator(Enum):
         #-----Locators-----
         Locator_SignIn_CSS = (Config.LocatorType.CSS_SELECTOR, "a[class='sign-in ga-header-sign-in'] span")
+        #Locator_SignIn_CSS1 = (By.CSS_SELECTOR, "a[class='sign-in ga-header-sign-in'] span")
         Locator_UserMail_ID = (Config.LocatorType.ID, "identifierId")
         Locator_UserPassword_Name = (Config.LocatorType.NAME, "Passwd")
         Locator_User_Next_Button_ID = (Config.LocatorType.ID, "identifierNext")
@@ -63,7 +64,6 @@ class LoginPage:
     """
     def setUserMail(self,mail):
         mail_input = BaseFunctions.element_fail(self, self.locator.Locator_UserMail_ID.get_locator_type(), self.locator.Locator_UserMail_ID.get_locator_string())
-        #userMailtxt=self.driver.find_element(By.ID,self.locator.Locator_UserMail_ID.get_locator_string())
         mail_input.clear()
         mail_input.send_keys(mail)
 

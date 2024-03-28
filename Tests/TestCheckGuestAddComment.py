@@ -4,8 +4,8 @@ from Pages.GuestPage import GuestPage
 from Pages.LoginPage import LoginPage
 from Configurations import Config,BaseFunctions
 
-"""
-- Open browser and visit https://onlinebloggertest.blogspot.com/
+"""Test Case Steps:
+1- Open browser and visit https://onlinebloggertest.blogspot.com/
 2 - Click "Post a Comment" button
 3 - Click "Sign in With Google" button
 4 - Enter email and Password then login

@@ -7,10 +7,11 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
+
+
 def browser_setup(self, url):
     options = webdriver.ChromeOptions()
     # Disable automatic close
-
     options.add_experimental_option("detach", True)
     options.binary_location = "C:\Program Files\Google\Chrome\Application\chrome.exe"
 
@@ -27,6 +28,7 @@ def browser_setup(self, url):
     self.driver.get(url)
     self.driver.maximize_window()
     self.driver.implicitly_wait(10)
+    return self.driver
 
 def take_screenshot(self, method=None):
     # Hata mesajının olduğu yerin ekran görüntüsünü alın
@@ -52,12 +54,15 @@ def element_fail(self, locatorType, locator):
         take_screenshot(self)
 
 def loggerInit(self, test_class_name):
-    logger = logging.getLogger(test_class_name)
-    logger.setLevel(logging.INFO)
+    self.logger = logging.getLogger(test_class_name)
+    self.logger.setLevel(logging.INFO)
     # Dosyaya logları yazma
     file_name = f"C:\\Users\\10132817\\PycharmProjects\\BloggerAutomation\\Test_Logs\\{test_class_name}.log"
     file_handler = logging.FileHandler(file_name)
     formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     file_handler.setFormatter(formatter)
-    logger.addHandler(file_handler)
-    return logger
+    self.logger.addHandler(file_handler)
+    self.logger.info("")
+    self.logger.info("__________New Test Logs__________")
+    self.logger.info("")
+    return self.logger

@@ -27,7 +27,7 @@ class GuestPage:
 
     #-----Methods-----
 
-    def __init__(self,driver):
+    def __init__(self, driver):
         self.driver = driver
 
     #----- Page Check-----

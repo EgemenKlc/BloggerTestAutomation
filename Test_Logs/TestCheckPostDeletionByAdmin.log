@@ -11,3 +11,32 @@
 2024-03-28 04:50:00,201 - TestCheckPostDeletionByAdmin - INFO -  7 - Wait until home page refresh 
 2024-03-28 04:50:00,260 - TestCheckPostDeletionByAdmin - INFO - Post deleted Successfully 
 2024-03-28 04:50:00,458 - TestCheckPostDeletionByAdmin - INFO - 8 - Browser closed 
+2024-03-28 11:09:48,864 - TestCheckPostDeletionByAdmin - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 11:09:54,218 - TestCheckPostDeletionByAdmin - INFO - Browser opened successfully!
+2024-03-28 11:09:54,219 - TestCheckPostDeletionByAdmin - INFO - 2.Check the login page and press the login button
+2024-03-28 11:09:54,340 - TestCheckPostDeletionByAdmin - INFO - login page is ture and Signin clicked
+2024-03-28 11:09:54,340 - TestCheckPostDeletionByAdmin - INFO - 3.Enter your email address and password, then log in.
+2024-03-28 11:10:01,717 - TestCheckPostDeletionByAdmin - INFO - User logged in successfully!
+2024-03-28 11:10:01,718 - TestCheckPostDeletionByAdmin - INFO - 4. check the home page after login
+2024-03-28 11:10:06,247 - TestCheckPostDeletionByAdmin - INFO - home page is true
+2024-03-28 11:10:06,247 - TestCheckPostDeletionByAdmin - INFO - 5 - Click post delete icon
+2024-03-28 11:10:12,644 - TestCheckPostDeletionByAdmin - INFO -  6 - Click delete confirm button
+2024-03-28 11:10:15,709 - TestCheckPostDeletionByAdmin - INFO -  7 - Wait until home page refresh 
+2024-03-28 11:10:15,776 - TestCheckPostDeletionByAdmin - INFO - Post deleted Successfully 
+2024-03-28 11:10:16,005 - TestCheckPostDeletionByAdmin - INFO - 8 - Browser closed 
+2024-03-28 15:59:10,329 - TestCheckPostDeletionByAdmin - INFO - 
+2024-03-28 15:59:10,330 - TestCheckPostDeletionByAdmin - INFO - __________New Test Logs__________
+2024-03-28 15:59:10,330 - TestCheckPostDeletionByAdmin - INFO - 
+2024-03-28 15:59:10,330 - TestCheckPostDeletionByAdmin - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 15:59:15,334 - TestCheckPostDeletionByAdmin - INFO - Browser opened successfully!
+2024-03-28 15:59:15,334 - TestCheckPostDeletionByAdmin - INFO - 2.Check the login page and press the login button
+2024-03-28 15:59:15,408 - TestCheckPostDeletionByAdmin - INFO - login page is ture and Signin clicked
+2024-03-28 15:59:15,408 - TestCheckPostDeletionByAdmin - INFO - 3.Enter your email address and password, then log in.
+2024-03-28 15:59:23,773 - TestCheckPostDeletionByAdmin - INFO - User logged in successfully!
+2024-03-28 15:59:23,773 - TestCheckPostDeletionByAdmin - INFO - 4. check the home page after login
+2024-03-28 15:59:28,118 - TestCheckPostDeletionByAdmin - INFO - home page is true
+2024-03-28 15:59:28,118 - TestCheckPostDeletionByAdmin - INFO - 5 - Click post delete icon
+2024-03-28 15:59:34,485 - TestCheckPostDeletionByAdmin - INFO -  6 - Click delete confirm button
+2024-03-28 15:59:37,529 - TestCheckPostDeletionByAdmin - INFO -  7 - Wait until home page refresh 
+2024-03-28 15:59:37,592 - TestCheckPostDeletionByAdmin - INFO - Post deleted Successfully 
+2024-03-28 15:59:37,791 - TestCheckPostDeletionByAdmin - INFO - 8 - Browser closed 

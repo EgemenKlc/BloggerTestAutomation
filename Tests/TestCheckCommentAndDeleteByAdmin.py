@@ -4,7 +4,8 @@ from Pages.HomePage import HomePage
 from Pages.LoginPage import LoginPage
 from Pages.CommentPage import CommentPage
 from Configurations import Config,BaseFunctions
-"""
+
+"""Test Case Steps:
     1. open browser and visit Blogger.com
     2. check the login page and press the Signin button
     3. enter your email address and password, then log in.

@@ -15,6 +15,7 @@ class PostEditPage:
 
         Locator_AddImage_Xpath = (Config.LocatorType.XPATH, "(//span[@class='DPvwYc sm8sCf GHpiyd'][contains(text(),'')])[1]")
         Locator_AddImage_URL_Xpath = (Config.LocatorType.XPATH,"/html[1]/body[1]/div[7]/c-wiz[2]/div[1]/c-wiz[1]/div[1]/div[2]/div[1]/div[1]/div[3]/span[1]/div[1]/div[1]/div[1]/div[1]/div[24]/div[1]/div[1]/span[4]/div[3]/div[1]")
+        Locator_AddImage_URL_Xpath1 = (Config.LocatorType.XPATH , "//div[@class='JPdR6b e5Emjc qjTEB']//span[@aria-label='By URL']")
         Locator_iframe_AddURL_Xpath = (Config.LocatorType.XPATH, "/html/body/div[11]/div[2]/div/iframe")
         Locator_PasteImageURL_Input_Xpath = (Config.LocatorType.XPATH,"/html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[1]")
         Locator_Select_URL_Button_ID = (Config.LocatorType.ID, "picker:ap:0")
@@ -56,14 +57,17 @@ class PostEditPage:
         element = BaseFunctions.element_fail(self, self.locator.Locator_AddImage_Xpath.get_locator_type(),
                                              self.locator.Locator_AddImage_Xpath.get_locator_string())
         element.click()
+        sleep(2)
 
     """Click the add image With url Button in the menu that opens after clicking the add image icon"""
     def clickAdd_Image_W_URL(self):
-        """element = BaseFunctions.element_fail(self, self.locator.Locator_AddImage_URL_Xpath.get_locator_type(),
-                                             self.locator.Locator_AddImage_URL_Xpath.get_locator_string())
-        element.click()"""
-        sleep(3)
-        self.driver.find_element(By.XPATH, self.locator.Locator_AddImage_URL_Xpath.get_locator_string()).click()
+
+        element = BaseFunctions.element_fail(self, self.locator.Locator_AddImage_URL_Xpath1.get_locator_type(),
+                                             self.locator.Locator_AddImage_URL_Xpath1.get_locator_string())
+
+        element.click()
+        #sleep(3)
+        #self.driver.find_element(By.XPATH, self.locator.Locator_AddImage_URL_Xpath1.get_locator_string()).click()
 
 
     """Switch to frame to write Url in the url field """

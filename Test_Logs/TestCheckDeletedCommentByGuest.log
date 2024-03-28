@@ -5,3 +5,20 @@
 2024-03-28 04:49:33,860 - TestCheckDeletedCommentByGuest - INFO - 3 - Check comment is deleted
 2024-03-28 04:49:33,902 - TestCheckDeletedCommentByGuest - INFO - Comment is deleted successfully
 2024-03-28 04:49:34,043 - TestCheckDeletedCommentByGuest - INFO - 4. browser Closed
+2024-03-28 11:09:39,993 - TestCheckDeletedCommentByGuest - INFO - 1. Open Browser and visit https://onlinebloggertest.blogspot.com/
+2024-03-28 11:09:45,641 - TestCheckDeletedCommentByGuest - INFO - Browser opened successfully!
+2024-03-28 11:09:45,641 - TestCheckDeletedCommentByGuest - INFO - 2 - Check the post visibility
+2024-03-28 11:09:48,655 - TestCheckDeletedCommentByGuest - INFO - Post is visible
+2024-03-28 11:09:48,655 - TestCheckDeletedCommentByGuest - INFO - 3 - Check comment is deleted
+2024-03-28 11:09:48,679 - TestCheckDeletedCommentByGuest - INFO - Comment is deleted successfully
+2024-03-28 11:09:48,854 - TestCheckDeletedCommentByGuest - INFO - 4. browser Closed
+2024-03-28 15:59:01,500 - TestCheckDeletedCommentByGuest - INFO - 
+2024-03-28 15:59:01,501 - TestCheckDeletedCommentByGuest - INFO - __________New Test Logs__________
+2024-03-28 15:59:01,501 - TestCheckDeletedCommentByGuest - INFO - 
+2024-03-28 15:59:01,501 - TestCheckDeletedCommentByGuest - INFO - 1. Open Browser and visit https://onlinebloggertest.blogspot.com/
+2024-03-28 15:59:07,095 - TestCheckDeletedCommentByGuest - INFO - Browser opened successfully!
+2024-03-28 15:59:07,095 - TestCheckDeletedCommentByGuest - INFO - 2 - Check the post visibility
+2024-03-28 15:59:10,116 - TestCheckDeletedCommentByGuest - INFO - Post is visible
+2024-03-28 15:59:10,117 - TestCheckDeletedCommentByGuest - INFO - 3 - Check comment is deleted
+2024-03-28 15:59:10,158 - TestCheckDeletedCommentByGuest - INFO - Comment is deleted successfully
+2024-03-28 15:59:10,318 - TestCheckDeletedCommentByGuest - INFO - 4. browser Closed

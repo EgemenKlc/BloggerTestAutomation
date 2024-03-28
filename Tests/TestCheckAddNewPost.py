@@ -27,7 +27,7 @@ class TestCheckAddNewPost:
 
 
         self.logger.info("1. Open Browser and visit blogger.com")
-        BaseFunctions.browser_setup(self, Config.admin_blog_Url)
+        self.driver = BaseFunctions.browser_setup(self, Config.admin_blog_Url)
         self.logger.info("Browser opened successfully!")
 
         self.lp = LoginPage(self.driver)

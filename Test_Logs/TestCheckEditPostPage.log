@@ -13,3 +13,36 @@
 2024-03-28 04:47:56,667 - TestCheckEditPostPage - INFO -  8. Click Update button
 2024-03-28 04:47:56,757 - TestCheckEditPostPage - INFO -  Post edited with Text Successfully
 2024-03-28 04:47:56,926 - TestCheckEditPostPage - INFO - 9. Browser Closed
+2024-03-28 11:07:43,692 - TestCheckEditPostPage - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 11:07:49,152 - TestCheckEditPostPage - INFO - Browser opened successfully!
+2024-03-28 11:07:49,152 - TestCheckEditPostPage - INFO - 2.Check the login page and press the login button
+2024-03-28 11:07:49,331 - TestCheckEditPostPage - INFO - login page is ture and Signin clicked
+2024-03-28 11:07:49,331 - TestCheckEditPostPage - INFO - 3.Enter your email address and password, then log in.
+2024-03-28 11:07:56,680 - TestCheckEditPostPage - INFO - User logged in successfully!
+2024-03-28 11:07:56,680 - TestCheckEditPostPage - INFO - 4. check the home page after login
+2024-03-28 11:08:01,072 - TestCheckEditPostPage - INFO - home page is true
+2024-03-28 11:08:01,072 - TestCheckEditPostPage - INFO - 5. Click the post that has been published
+2024-03-28 11:08:07,166 - TestCheckEditPostPage - INFO - Edit page is true
+2024-03-28 11:08:07,166 - TestCheckEditPostPage - INFO -  6. Click the page
+2024-03-28 11:08:09,226 - TestCheckEditPostPage - INFO - 7. Edit the text with "NEW EDITTED POSTT!!!!!!"
+2024-03-28 11:08:09,318 - TestCheckEditPostPage - INFO -  8. Click Update button
+2024-03-28 11:08:09,426 - TestCheckEditPostPage - INFO -  Post edited with Text Successfully
+2024-03-28 11:08:09,724 - TestCheckEditPostPage - INFO - 9. Browser Closed
+2024-03-28 15:57:07,568 - TestCheckEditPostPage - INFO - 
+2024-03-28 15:57:07,569 - TestCheckEditPostPage - INFO - __________New Test Logs__________
+2024-03-28 15:57:07,569 - TestCheckEditPostPage - INFO - 
+2024-03-28 15:57:07,569 - TestCheckEditPostPage - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 15:57:12,737 - TestCheckEditPostPage - INFO - Browser opened successfully!
+2024-03-28 15:57:12,738 - TestCheckEditPostPage - INFO - 2.Check the login page and press the login button
+2024-03-28 15:57:12,851 - TestCheckEditPostPage - INFO - login page is ture and Signin clicked
+2024-03-28 15:57:12,851 - TestCheckEditPostPage - INFO - 3.Enter your email address and password, then log in.
+2024-03-28 15:57:20,246 - TestCheckEditPostPage - INFO - User logged in successfully!
+2024-03-28 15:57:20,246 - TestCheckEditPostPage - INFO - 4. check the home page after login
+2024-03-28 15:57:26,001 - TestCheckEditPostPage - INFO - home page is true
+2024-03-28 15:57:26,001 - TestCheckEditPostPage - INFO - 5. Click the post that has been published
+2024-03-28 15:57:32,100 - TestCheckEditPostPage - INFO - Edit page is true
+2024-03-28 15:57:32,100 - TestCheckEditPostPage - INFO -  6. Click the page
+2024-03-28 15:57:34,145 - TestCheckEditPostPage - INFO - 7. Edit the text with "NEW EDITTED POSTT!!!!!!"
+2024-03-28 15:57:34,237 - TestCheckEditPostPage - INFO -  8. Click Update button
+2024-03-28 15:57:34,341 - TestCheckEditPostPage - INFO -  Post edited with Text Successfully
+2024-03-28 15:57:34,548 - TestCheckEditPostPage - INFO - 9. Browser Closed
