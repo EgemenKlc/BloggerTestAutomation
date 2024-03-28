@@ -78,3 +78,75 @@
 2024-03-28 15:56:18,040 - TestCheckLoginPage - INFO - 4. check the home page after login
 2024-03-28 15:56:23,166 - TestCheckLoginPage - INFO - home page is true
 2024-03-28 15:56:23,535 - TestCheckLoginPage - INFO - 5. browser Closed
+2024-03-28 23:31:30,750 - TestCheckLoginPage - INFO - 
+2024-03-28 23:31:30,751 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-03-28 23:31:30,751 - TestCheckLoginPage - INFO - 
+2024-03-28 23:31:30,751 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:31:48,211 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-03-28 23:31:48,212 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-03-28 23:34:11,176 - TestCheckLoginPage - INFO - 
+2024-03-28 23:34:11,176 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-03-28 23:34:11,176 - TestCheckLoginPage - INFO - 
+2024-03-28 23:34:11,176 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:34:17,935 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-03-28 23:34:17,935 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-03-28 23:42:11,131 - TestCheckLoginPage - INFO - 
+2024-03-28 23:42:11,132 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-03-28 23:42:11,132 - TestCheckLoginPage - INFO - 
+2024-03-28 23:42:11,132 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:42:16,036 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-03-28 23:42:16,036 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-03-28 23:45:34,379 - TestCheckLoginPage - INFO - 
+2024-03-28 23:45:34,380 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-03-28 23:45:34,380 - TestCheckLoginPage - INFO - 
+2024-03-28 23:45:34,380 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:45:39,460 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-03-28 23:45:39,461 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-03-28 23:46:41,517 - TestCheckLoginPage - INFO - 
+2024-03-28 23:46:41,517 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-03-28 23:46:41,517 - TestCheckLoginPage - INFO - 
+2024-03-28 23:46:41,518 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:46:46,523 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-03-28 23:46:46,524 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-03-28 23:47:21,168 - TestCheckLoginPage - INFO - 
+2024-03-28 23:47:21,168 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-03-28 23:47:21,168 - TestCheckLoginPage - INFO - 
+2024-03-28 23:47:21,168 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:47:26,126 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-03-28 23:47:26,126 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-03-28 23:47:57,289 - TestCheckLoginPage - INFO - 
+2024-03-28 23:47:57,289 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-03-28 23:47:57,290 - TestCheckLoginPage - INFO - 
+2024-03-28 23:47:57,290 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:48:02,149 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-03-28 23:48:02,149 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-03-28 23:50:15,071 - TestCheckLoginPage - INFO - 
+2024-03-28 23:50:15,071 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-03-28 23:50:15,071 - TestCheckLoginPage - INFO - 
+2024-03-28 23:50:15,071 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:50:20,275 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-03-28 23:50:20,276 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-03-28 23:54:21,932 - TestCheckLoginPage - INFO - 
+2024-03-28 23:54:21,932 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-03-28 23:54:21,932 - TestCheckLoginPage - INFO - 
+2024-03-28 23:54:21,932 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:54:26,987 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-03-28 23:54:26,988 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-03-28 23:54:27,067 - TestCheckLoginPage - INFO - login page is ture and Signin clicked
+2024-03-28 23:54:27,067 - TestCheckLoginPage - INFO - 3.Enter your email address and password, then log in.
+2024-03-28 23:54:35,230 - TestCheckLoginPage - INFO - User logged in successfully!
+2024-03-28 23:54:35,231 - TestCheckLoginPage - INFO - 4. check the home page after login
+2024-03-28 23:54:39,629 - TestCheckLoginPage - INFO - home page is true
+2024-03-28 23:54:39,856 - TestCheckLoginPage - INFO - 5. browser Closed
+2024-03-28 23:58:55,779 - TestCheckLoginPage - INFO - 
+2024-03-28 23:58:55,779 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-03-28 23:58:55,779 - TestCheckLoginPage - INFO - 
+2024-03-28 23:58:55,779 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:59:00,669 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-03-28 23:59:00,670 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-03-28 23:59:00,753 - TestCheckLoginPage - INFO - login page is ture and Signin clicked
+2024-03-28 23:59:00,753 - TestCheckLoginPage - INFO - 3.Enter your email address and password, then log in.
+2024-03-28 23:59:08,183 - TestCheckLoginPage - INFO - User logged in successfully!
+2024-03-28 23:59:08,183 - TestCheckLoginPage - INFO - 4. check the home page after login
+2024-03-28 23:59:12,823 - TestCheckLoginPage - INFO - home page is true
+2024-03-28 23:59:13,056 - TestCheckLoginPage - INFO - 5. browser Closed

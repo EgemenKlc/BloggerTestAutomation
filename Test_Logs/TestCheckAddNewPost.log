@@ -194,3 +194,52 @@
 2024-03-28 15:57:07,343 - TestCheckAddNewPost - INFO - Number of post after deletion 7 - Before Deletion 8  
 2024-03-28 15:57:07,343 - TestCheckAddNewPost - INFO - New Post Added Successfully
 2024-03-28 15:57:07,558 - TestCheckAddNewPost - INFO - 12. browser Closed
+2024-03-28 23:31:48,621 - TestCheckAddNewPost - INFO - 
+2024-03-28 23:31:48,621 - TestCheckAddNewPost - INFO - __________New Test Logs__________
+2024-03-28 23:31:48,621 - TestCheckAddNewPost - INFO - 
+2024-03-28 23:31:48,622 - TestCheckAddNewPost - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:31:55,559 - TestCheckAddNewPost - INFO - Browser opened successfully!
+2024-03-28 23:31:55,560 - TestCheckAddNewPost - INFO - 2.Check the login page and press the login button
+2024-03-28 23:34:18,245 - TestCheckAddNewPost - INFO - 
+2024-03-28 23:34:18,245 - TestCheckAddNewPost - INFO - __________New Test Logs__________
+2024-03-28 23:34:18,245 - TestCheckAddNewPost - INFO - 
+2024-03-28 23:34:18,245 - TestCheckAddNewPost - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:34:25,120 - TestCheckAddNewPost - INFO - Browser opened successfully!
+2024-03-28 23:34:25,121 - TestCheckAddNewPost - INFO - 2.Check the login page and press the login button
+2024-03-28 23:47:26,416 - TestCheckAddNewPost - INFO - 
+2024-03-28 23:47:26,416 - TestCheckAddNewPost - INFO - __________New Test Logs__________
+2024-03-28 23:47:26,416 - TestCheckAddNewPost - INFO - 
+2024-03-28 23:47:26,416 - TestCheckAddNewPost - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:48:02,382 - TestCheckAddNewPost - INFO - 
+2024-03-28 23:48:02,383 - TestCheckAddNewPost - INFO - __________New Test Logs__________
+2024-03-28 23:48:02,383 - TestCheckAddNewPost - INFO - 
+2024-03-28 23:48:02,383 - TestCheckAddNewPost - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:54:39,864 - TestCheckAddNewPost - INFO - 
+2024-03-28 23:54:39,864 - TestCheckAddNewPost - INFO - __________New Test Logs__________
+2024-03-28 23:54:39,864 - TestCheckAddNewPost - INFO - 
+2024-03-28 23:54:39,864 - TestCheckAddNewPost - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:54:45,317 - TestCheckAddNewPost - INFO - Browser opened successfully!
+2024-03-28 23:54:45,317 - TestCheckAddNewPost - INFO - 2.Check the login page and press the login button
+2024-03-28 23:54:45,394 - TestCheckAddNewPost - INFO - login page is ture and Signin clicked
+2024-03-28 23:54:45,394 - TestCheckAddNewPost - INFO - 3.Enter your email address and password, then log in.
+2024-03-28 23:54:53,188 - TestCheckAddNewPost - INFO - User logged in successfully!
+2024-03-28 23:54:53,188 - TestCheckAddNewPost - INFO - 4. check the home page after login
+2024-03-28 23:54:59,261 - TestCheckAddNewPost - INFO - home page is true
+2024-03-28 23:55:11,357 - TestCheckAddNewPost - INFO - Number of post 0 , All (0)
+2024-03-28 23:55:11,357 - TestCheckAddNewPost - INFO - 5. Click New Post Button
+2024-03-28 23:55:17,438 - TestCheckAddNewPost - INFO - New Post page opened Successfully
+2024-03-28 23:55:17,438 - TestCheckAddNewPost - INFO - 6. Click Insert Image icon
+2024-03-28 23:55:19,503 - TestCheckAddNewPost - INFO - 7. Click By Url button
+2024-03-28 23:55:22,611 - TestCheckAddNewPost - INFO - 8. Enter image url 
+2024-03-28 23:55:22,687 - TestCheckAddNewPost - INFO - Image url entered Successfully
+2024-03-28 23:55:22,688 - TestCheckAddNewPost - INFO - 9. Click select button
+2024-03-28 23:55:25,786 - TestCheckAddNewPost - INFO - Image added to the post Successfully
+2024-03-28 23:55:25,786 - TestCheckAddNewPost - INFO - 10. Click publish button
+2024-03-28 23:55:26,267 - TestCheckAddNewPost - INFO - 11. Click Confirm button
+2024-03-28 23:55:31,756 - TestCheckAddNewPost - INFO - Number of post after deletion 0 - Before Deletion 1
+2024-03-28 23:55:31,756 - TestCheckAddNewPost - INFO - New Post Added Successfully
+2024-03-28 23:55:31,880 - TestCheckAddNewPost - INFO - 12. browser Closed
+2024-03-28 23:59:13,063 - TestCheckAddNewPost - INFO - 
+2024-03-28 23:59:13,064 - TestCheckAddNewPost - INFO - __________New Test Logs__________
+2024-03-28 23:59:13,064 - TestCheckAddNewPost - INFO - 
+2024-03-28 23:59:13,064 - TestCheckAddNewPost - INFO - 1. Open Browser and visit blogger.com

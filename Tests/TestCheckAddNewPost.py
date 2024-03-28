@@ -19,6 +19,7 @@ from Configurations import Config, BaseFunctions
     11. Click confirm button
     12. close browser 
 """
+
 class TestCheckAddNewPost:
 
     @pytest.mark.order(2)
@@ -79,13 +80,14 @@ class TestCheckAddNewPost:
         self.npp.clickConfirmButton()
         self.driver.refresh()
         after_post_addition = self.hp.post_count()
+
         if after_post_addition - pre_post_addition == 1:
-            self.logger.info(f"Number of post after deletion {pre_post_addition} - Before Deletion {after_post_addition}  ")
-            
+            self.logger.info(f"Number of post after deletion {pre_post_addition} - Before Deletion {after_post_addition}")
             assert True
         else:
             BaseFunctions.take_screenshot(self, 1)
             assert False
+
         self.logger.info("New Post Added Successfully")
         self.tearDown()
         self.logger.info("12. browser Closed")

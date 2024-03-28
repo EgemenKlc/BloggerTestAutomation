@@ -22,3 +22,13 @@
 2024-03-28 15:59:10,117 - TestCheckDeletedCommentByGuest - INFO - 3 - Check comment is deleted
 2024-03-28 15:59:10,158 - TestCheckDeletedCommentByGuest - INFO - Comment is deleted successfully
 2024-03-28 15:59:10,318 - TestCheckDeletedCommentByGuest - INFO - 4. browser Closed
+2024-03-28 23:57:23,594 - TestCheckDeletedCommentByGuest - INFO - 
+2024-03-28 23:57:23,595 - TestCheckDeletedCommentByGuest - INFO - __________New Test Logs__________
+2024-03-28 23:57:23,596 - TestCheckDeletedCommentByGuest - INFO - 
+2024-03-28 23:57:23,596 - TestCheckDeletedCommentByGuest - INFO - 1. Open Browser and visit https://onlinebloggertest.blogspot.com/
+2024-03-28 23:57:28,150 - TestCheckDeletedCommentByGuest - INFO - Browser opened successfully!
+2024-03-28 23:57:28,150 - TestCheckDeletedCommentByGuest - INFO - 2 - Check the post visibility
+2024-03-28 23:57:31,177 - TestCheckDeletedCommentByGuest - INFO - Post is visible
+2024-03-28 23:57:31,177 - TestCheckDeletedCommentByGuest - INFO - 3 - Check comment is deleted
+2024-03-28 23:57:31,214 - TestCheckDeletedCommentByGuest - INFO - Comment is deleted successfully
+2024-03-28 23:57:31,331 - TestCheckDeletedCommentByGuest - INFO - 4. browser Closed

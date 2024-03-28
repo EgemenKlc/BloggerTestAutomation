@@ -46,3 +46,21 @@
 2024-03-28 15:58:56,269 - TestCheckCommentAndDeleteByAdmin - INFO - 8 - Click delete confirm button
 2024-03-28 15:59:01,328 - TestCheckCommentAndDeleteByAdmin - INFO - Comment deleted successfully
 2024-03-28 15:59:01,488 - TestCheckCommentAndDeleteByAdmin - INFO - 9 - Browser Closed
+2024-03-28 23:56:47,102 - TestCheckCommentAndDeleteByAdmin - INFO - 
+2024-03-28 23:56:47,103 - TestCheckCommentAndDeleteByAdmin - INFO - __________New Test Logs__________
+2024-03-28 23:56:47,103 - TestCheckCommentAndDeleteByAdmin - INFO - 
+2024-03-28 23:56:47,103 - TestCheckCommentAndDeleteByAdmin - INFO - 1. Open Browser and visit blogger.com
+2024-03-28 23:56:51,961 - TestCheckCommentAndDeleteByAdmin - INFO - Browser opened successfully!
+2024-03-28 23:56:51,961 - TestCheckCommentAndDeleteByAdmin - INFO - 2.Check the login page and press the login button
+2024-03-28 23:56:52,082 - TestCheckCommentAndDeleteByAdmin - INFO - login page is true and Signin clicked
+2024-03-28 23:56:52,082 - TestCheckCommentAndDeleteByAdmin - INFO - 3.Enter your email address and password, then log in.
+2024-03-28 23:56:59,561 - TestCheckCommentAndDeleteByAdmin - INFO - User logged in successfully!
+2024-03-28 23:56:59,561 - TestCheckCommentAndDeleteByAdmin - INFO - 4. check the home page after login
+2024-03-28 23:57:03,730 - TestCheckCommentAndDeleteByAdmin - INFO - home page is true
+2024-03-28 23:57:03,731 - TestCheckCommentAndDeleteByAdmin - INFO - 5 - Click Comment Button
+2024-03-28 23:57:09,842 - TestCheckCommentAndDeleteByAdmin - INFO - Comment Page is opened
+2024-03-28 23:57:09,842 - TestCheckCommentAndDeleteByAdmin - INFO - 6 - Check comment if it is visible and validate comment text
+2024-03-28 23:57:12,924 - TestCheckCommentAndDeleteByAdmin - INFO - 7 - Click delete icon 
+2024-03-28 23:57:18,296 - TestCheckCommentAndDeleteByAdmin - INFO - 8 - Click delete confirm button
+2024-03-28 23:57:23,362 - TestCheckCommentAndDeleteByAdmin - INFO - Comment deleted successfully
+2024-03-28 23:57:23,586 - TestCheckCommentAndDeleteByAdmin - INFO - 9 - Browser Closed

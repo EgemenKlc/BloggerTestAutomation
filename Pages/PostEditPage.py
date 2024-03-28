@@ -23,7 +23,7 @@ class PostEditPage:
         Locator_ConfirmButton_Xpath = (Config.LocatorType.XPATH,"(//span[@class='RveJvd snByac'][normalize-space()='Confirm'])[2]")
         Locator_iframe_TextArea_Xpath = (Config.LocatorType.XPATH,"/html[1]/body[1]/div[7]/c-wiz[1]/div[1]/c-wiz[1]/div[1]/div[2]/div[1]/div[1]/div[3]/span[1]/div[1]/div[1]/div[2]")
         Locator_iframe_TextArea_CSS = (Config.LocatorType.CSS_SELECTOR, "iframe[class='ZW3ZFc editable']")
-        Locator_TextArea_Xpath = (Config.LocatorType.XPATH,"(//body)[1]")
+        Locator_TextArea_Xpath = (Config.LocatorType.XPATH, "(//body)[1]")
         Locator_UpdateButton_CSS = (Config.LocatorType.CSS_SELECTOR, "div[aria-label='Update'] div[class='A2yzVd']")
         def get_locator_type(self):
             return self.value[0]

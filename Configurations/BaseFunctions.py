@@ -47,7 +47,6 @@ def element_fail(self, locatorType, locator):
         # Belirli bir süre boyunca elementi ara
         element = WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((getattr(By, locatorType), locator)))
         return element
-
     except TimeoutException:
         take_screenshot(self)
     except NoSuchElementException:
