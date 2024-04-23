@@ -166,3 +166,61 @@
 2024-04-01 13:35:18,519 - TestCheckLoginPage - INFO - 4. check the home page after login
 2024-04-01 13:35:24,162 - TestCheckLoginPage - INFO - home page is true
 2024-04-01 13:35:24,380 - TestCheckLoginPage - INFO - 5. browser Closed
+2024-04-01 15:58:25,715 - TestCheckLoginPage - INFO - 
+2024-04-01 15:58:25,715 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-04-01 15:58:25,715 - TestCheckLoginPage - INFO - 
+2024-04-01 15:58:25,715 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-04-01 15:58:31,898 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-04-01 15:58:31,898 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-04-05 13:11:34,557 - TestCheckLoginPage - INFO - 
+2024-04-05 13:11:34,558 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-04-05 13:11:34,558 - TestCheckLoginPage - INFO - 
+2024-04-05 13:11:34,559 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-04-05 13:12:04,262 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-04-05 13:12:04,262 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-04-05 13:12:04,355 - TestCheckLoginPage - INFO - login page is ture and Signin clicked
+2024-04-05 13:12:04,355 - TestCheckLoginPage - INFO - 3.Enter your email address and password, then log in.
+2024-04-05 13:12:14,447 - TestCheckLoginPage - INFO - User logged in successfully!
+2024-04-05 13:12:14,448 - TestCheckLoginPage - INFO - 4. check the home page after login
+2024-04-05 13:12:22,076 - TestCheckLoginPage - INFO - home page is true
+2024-04-05 13:12:22,076 - TestCheckLoginPage - INFO - 5. browser Closed
+2024-04-05 13:13:34,720 - TestCheckLoginPage - INFO - 
+2024-04-05 13:13:34,720 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-04-05 13:13:34,721 - TestCheckLoginPage - INFO - 
+2024-04-05 13:13:34,721 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-04-05 13:13:43,346 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-04-05 13:13:43,347 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-04-05 13:13:43,539 - TestCheckLoginPage - INFO - login page is ture and Signin clicked
+2024-04-05 13:13:43,540 - TestCheckLoginPage - INFO - 3.Enter your email address and password, then log in.
+2024-04-05 13:13:53,428 - TestCheckLoginPage - INFO - User logged in successfully!
+2024-04-05 13:13:53,429 - TestCheckLoginPage - INFO - 4. check the home page after login
+2024-04-05 13:13:59,320 - TestCheckLoginPage - INFO - home page is true
+2024-04-05 13:13:59,321 - TestCheckLoginPage - INFO - 5. browser Closed
+2024-04-05 13:14:28,417 - TestCheckLoginPage - INFO - 
+2024-04-05 13:14:28,417 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-04-05 13:14:28,417 - TestCheckLoginPage - INFO - 
+2024-04-05 13:14:28,418 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-04-05 13:14:36,595 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-04-05 13:14:36,595 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-04-05 13:14:36,828 - TestCheckLoginPage - INFO - login page is ture and Signin clicked
+2024-04-05 13:14:36,828 - TestCheckLoginPage - INFO - 3.Enter your email address and password, then log in.
+2024-04-05 13:14:47,779 - TestCheckLoginPage - INFO - User logged in successfully!
+2024-04-05 13:14:47,780 - TestCheckLoginPage - INFO - 4. check the home page after login
+2024-04-05 13:14:53,424 - TestCheckLoginPage - INFO - home page is true
+2024-04-05 13:14:53,425 - TestCheckLoginPage - INFO - 5. browser Closed
+2024-04-05 13:24:30,370 - TestCheckLoginPage - INFO - 
+2024-04-05 13:24:30,370 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-04-05 13:24:30,370 - TestCheckLoginPage - INFO - 
+2024-04-05 13:24:30,371 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-04-09 00:29:00,856 - TestCheckLoginPage - INFO - 
+2024-04-09 00:29:00,856 - TestCheckLoginPage - INFO - __________New Test Logs__________
+2024-04-09 00:29:00,856 - TestCheckLoginPage - INFO - 
+2024-04-09 00:29:00,857 - TestCheckLoginPage - INFO - 1. Open Browser and visit blogger.com
+2024-04-09 00:29:09,075 - TestCheckLoginPage - INFO - Browser opened successfully!
+2024-04-09 00:29:09,075 - TestCheckLoginPage - INFO - 2.Check the login page and press the login button
+2024-04-09 00:29:09,142 - TestCheckLoginPage - INFO - login page is ture and Signin clicked
+2024-04-09 00:29:09,142 - TestCheckLoginPage - INFO - 3.Enter your email address and password, then log in.
+2024-04-09 00:29:16,994 - TestCheckLoginPage - INFO - User logged in successfully!
+2024-04-09 00:29:16,995 - TestCheckLoginPage - INFO - 4. check the home page after login
+2024-04-09 00:29:23,515 - TestCheckLoginPage - INFO - home page is true
+2024-04-09 00:29:23,752 - TestCheckLoginPage - INFO - 5. browser Closed

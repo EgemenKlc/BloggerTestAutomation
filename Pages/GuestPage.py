@@ -4,27 +4,22 @@ from selenium.webdriver.common.by import By
 from time import sleep
 from Configurations import Config, BaseFunctions
 
+
 class GuestPage:
-
-
     #-----Locators-----
     Locator_NoPostMessage_CSS = "div[class='no-posts-message']"
     Locator_PostFeatured_ID = "FeaturedPost1"
     Locator_PostComment_CSS = "span[class='num_comments']"
     Locator_iframe_Comment_NAME = "comment-editor"
-    Locator_GoogleSignIn_CSS ="div[aria-label='Sign in with Google'] span[class='RveJvd snByac']"
+    Locator_GoogleSignIn_CSS = "div[aria-label='Sign in with Google'] span[class='RveJvd snByac']"
     Locator_CommentTextArea_CSS = "textarea[aria-label='Enter Comment']"
     Locator_PublishCommentButton_CSS = "div[aria-label='Publish'] span[class='RveJvd snByac']"
     Locator_CommentList_CSS = "ol[id='top-ra']"
     Locator_CommentList_Xpath = "//*[@id='top-ra']"
-
-
     #-----Variable_Value-----
     CommentText = "Hey You I am a Guest!! :)"
     guest_page_title = "BloggerAutomation"
     global_total_comment_number = 0
-
-
     #-----Methods-----
 
     def __init__(self, driver):
@@ -49,7 +44,7 @@ class GuestPage:
     def PostCheck(self):
 
         sleep(3)
-        elements = self.driver.find_elements(By.ID,self.Locator_PostFeatured_ID)
+        elements = self.driver.find_elements(By.ID, self.Locator_PostFeatured_ID)
         # Eğer liste boşsa, element yoktur
         if not elements:
             self.driver.save_screenshot("C:\\Users\\10132817\\PycharmProjects\\BloggerAutomation\\Error_ScreenShots\\PostNotFound_error_screenshot.png")
@@ -61,7 +56,7 @@ class GuestPage:
     we check that there should be comments
     """
     def CommentCheck(self):
-        Comment_Text = self.driver.find_element(By.CSS_SELECTOR,self.Locator_PostComment_CSS).text
+        Comment_Text = self.driver.find_element(By.CSS_SELECTOR, self.Locator_PostComment_CSS).text
         if "Post" in Comment_Text:
             print("yorum yok")
             assert False
@@ -89,7 +84,7 @@ class GuestPage:
     """Click on Post Comment to add comment """
     def clickPostComment(self):
         sleep(3)
-        self.driver.find_element(By.CSS_SELECTOR,self.Locator_PostComment_CSS).click()
+        self.driver.find_element(By.CSS_SELECTOR, self.Locator_PostComment_CSS).click()
 
     """Switch to default frame"""
     def SwitchDefaultFrame(self):
@@ -98,7 +93,7 @@ class GuestPage:
     """Switch the frame for Clicking the Sign in button """
     def SwitchFrame_to_CommentSign(self):
         sleep(3)
-        self.driver.switch_to.frame(self.driver.find_element(By.NAME, self.Locator_iframe_Comment_NAME ))
+        self.driver.switch_to.frame(self.driver.find_element(By.NAME, self.Locator_iframe_Comment_NAME))
 
     """Click Goggle signin button On Guest page"""
     def click_GoogleSignIn_ForComment(self):
@@ -123,7 +118,6 @@ class GuestPage:
             assert False
         else:
             assert True
-           #id yi globale al
 
 
 '''
@@ -136,7 +130,6 @@ class GuestPage:
             return False
 
     return True
-    
-    '''
+'''
 
 

@@ -98,3 +98,15 @@
 2024-04-01 13:37:42,366 - TestCheckGuestAddComment - INFO - 8 - Check comment if it is added or not
 2024-04-01 13:37:42,638 - TestCheckGuestAddComment - INFO - Comment added Successfully
 2024-04-01 13:37:42,786 - TestCheckGuestAddComment - INFO - 9 - Browser closed
+2024-04-09 00:30:41,921 - TestCheckGuestAddComment - INFO - 
+2024-04-09 00:30:41,922 - TestCheckGuestAddComment - INFO - __________New Test Logs__________
+2024-04-09 00:30:41,922 - TestCheckGuestAddComment - INFO - 
+2024-04-09 00:30:41,922 - TestCheckGuestAddComment - INFO - 1. Open Browser and visit https://onlinebloggertest.blogspot.com/
+2024-04-09 00:30:46,591 - TestCheckGuestAddComment - INFO - Browser opened successfully!
+2024-04-09 00:30:49,611 - TestCheckGuestAddComment - INFO - Guest page is True 
+2024-04-09 00:30:52,630 - TestCheckGuestAddComment - INFO - Post is visible 
+2024-04-09 00:30:52,631 - TestCheckGuestAddComment - INFO - 2 - Click "Post a Comment" button 
+2024-04-09 00:31:01,486 - TestCheckGuestAddComment - INFO - 3 - Click "Sign in With Google" button
+2024-04-09 00:31:04,989 - TestCheckGuestAddComment - INFO - 4 - Enter email and Password then login
+2024-04-09 00:31:07,741 - TestCheckGuestAddComment - INFO - Guest Login successfully
+2024-04-09 00:31:07,741 - TestCheckGuestAddComment - INFO - 5 - Click Enter Comment textbox

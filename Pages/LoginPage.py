@@ -27,19 +27,21 @@ class LoginPage:
     def __init__(self, driver):
         self.driver = driver
 
-    """Login with google by User information
-    param str index: User credential indexes you want to Login with
-    """
+
     def LoginInit(self, mail, password):
+        """Login with google by User information
+        param str index: User credential indexes you want to Login with
+        """
         self.setUserMail(mail)
         self.clickMailNext()
         self.setPassword(password)
         self.clickPassNext()
 
-    """Login Page Validation
-    Login page validation with Title 
-    """
+
     def loginPageCheck(self):
+        """Login Page Validation
+            Login page validation with Title
+            """
         current_title = self.driver.title
         if current_title == self.login_page_title:
             assert True
@@ -80,21 +82,25 @@ class LoginPage:
     """
     def clickSignIn(self):
 
-        Signin_button = BaseFunctions.element_fail(self,self.locator.Locator_SignIn_CSS.get_locator_type(), self.locator.Locator_SignIn_CSS.get_locator_string())
+        Signin_button = BaseFunctions.element_fail(self,self.locator.Locator_SignIn_CSS.get_locator_type(),
+                                                   self.locator.Locator_SignIn_CSS.get_locator_string())
         Signin_button.click()
         #self.driver.find_element(By.CSS_SELECTOR,self.Locator_SignIn_CSS).click()
 
-    """Click Next button after entering the e-mail     
-    """
     def clickMailNext(self):
+
+        """Click Next button after entering the e-mail
+           """
+
         mail_next_button = BaseFunctions.element_fail(self, self.locator.Locator_User_Next_Button_ID.get_locator_type(),
                                                       self.locator.Locator_User_Next_Button_ID.get_locator_string())
         mail_next_button.click()
         #self.driver.find_element(By.ID,self.locator.Locator_User_Next_Button_ID.get_locator_string()).click()
 
-    """Click Next button after entering the password     
-    """
+
     def clickPassNext(self):
+        """Click Next button after entering the password
+           """
         pass_next_button = BaseFunctions.element_fail(self, self.locator.Locator_Password_Next_Button_ID.get_locator_type(),
                                                self.locator.Locator_Password_Next_Button_ID.get_locator_string())
         pass_next_button.click()

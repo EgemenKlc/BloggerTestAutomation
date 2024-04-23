@@ -24,7 +24,7 @@ class TestCheckGuestAddComment:
         self.logger = BaseFunctions.loggerInit(self, self.__class__.__name__)
 
         self.logger.info("1. Open Browser and visit https://onlinebloggertest.blogspot.com/")
-        BaseFunctions.browser_setup(self, Config.guest_blog_Url)
+        self.driver = BaseFunctions.browser_setup(self, Config.guest_blog_Url)
         self.logger.info("Browser opened successfully!")
 
         #----- guest page Check if post is visible------

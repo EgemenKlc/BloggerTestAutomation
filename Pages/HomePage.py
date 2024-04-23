@@ -31,7 +31,6 @@ class HomePage:
         sleep(3)
         current_title = self.driver.title
         if current_title == self.home_page_title:
-
             assert True
         else:
             Config.take_screenshot(self)

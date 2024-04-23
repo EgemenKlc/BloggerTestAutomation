@@ -4,11 +4,9 @@ from Pages.GuestPage import GuestPage
 from selenium.webdriver.common.action_chains import ActionChains
 from Configurations import Config
 
+
 class CommentPage:
-
     gp = GuestPage
-
-
     #-----Locators------
     Locator_CommentTexts_CSS = "div[class='Opvl3b']"
     Locator_CommentTexts_XPath = "//div[normalize-space()='Hey You I am a Guest!! :)']"
@@ -17,14 +15,12 @@ class CommentPage:
     Locator_CommentListItems_Xpath = "(//div[@class='opmHNc'])[1]"
     Locator_CommentListItems_CSS = "div[role='list'] div:nth-child(1) span:nth-child(1) div:nth-child(1) div:nth-child(1) div:nth-child(4)"
     Locator_CommentListItems_CSS2 = "div[class='LgQiCc vOSR6b']"
-
-
     #-------Variables------
     comment_page_title = "Blogger: Comments"
 
     #-----Methods------
-    def __init__(self,driver):
-        self.driver=driver
+    def __init__(self, driver):
+        self.driver = driver
 
     """Comment Page Validation
     Comment page validation with Title 
@@ -75,11 +71,12 @@ class CommentPage:
             comment_num = 0
         else:
             comment_num = len(comment_list)
-            Config.total_comment_number = len(comment_list)
+            #Config.total_comment_number = len(comment_list)
 
         return comment_num
 
     """Get the number of comments and assign them to a global variable"""
+    '''
     def commentNumberGlobal(self):
         comment_list = self.driver.find_elements(By.CSS_SELECTOR, self.Locator_CommentListItems_CSS2)
         if not comment_list:
@@ -87,6 +84,8 @@ class CommentPage:
         else:
             Config.total_comment_number = len(comment_list)
             print(Config.total_comment_number)
+            '''
+
 
 
 

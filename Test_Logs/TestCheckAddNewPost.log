@@ -268,3 +268,57 @@
 2024-04-01 13:36:25,311 - TestCheckAddNewPost - INFO - Number of post after deletion 0 - Before Deletion 1
 2024-04-01 13:36:25,312 - TestCheckAddNewPost - INFO - New Post Added Successfully
 2024-04-01 13:36:25,455 - TestCheckAddNewPost - INFO - 12. browser Closed
+2024-04-01 15:38:08,427 - TestCheckAddNewPost - INFO - 
+2024-04-01 15:38:08,428 - TestCheckAddNewPost - INFO - __________New Test Logs__________
+2024-04-01 15:38:08,428 - TestCheckAddNewPost - INFO - 
+2024-04-01 15:38:08,428 - TestCheckAddNewPost - INFO - 1. Open Browser and visit blogger.com
+2024-04-01 15:38:15,499 - TestCheckAddNewPost - INFO - Browser opened successfully!
+2024-04-01 15:38:15,503 - TestCheckAddNewPost - INFO - 2.Check the login page and press the login button
+2024-04-01 15:38:15,681 - TestCheckAddNewPost - INFO - login page is ture and Signin clicked
+2024-04-01 15:38:15,682 - TestCheckAddNewPost - INFO - 3.Enter your email address and password, then log in.
+2024-04-01 15:38:23,301 - TestCheckAddNewPost - INFO - User logged in successfully!
+2024-04-01 15:38:23,302 - TestCheckAddNewPost - INFO - 4. check the home page after login
+2024-04-01 15:38:28,485 - TestCheckAddNewPost - INFO - home page is true
+2024-04-01 15:38:40,574 - TestCheckAddNewPost - INFO - Number of post 0 , All (0)
+2024-04-01 15:38:40,574 - TestCheckAddNewPost - INFO - 5. Click New Post Button
+2024-04-01 15:38:46,661 - TestCheckAddNewPost - INFO - New Post page opened Successfully
+2024-04-01 15:38:46,661 - TestCheckAddNewPost - INFO - 6. Click Insert Image icon
+2024-04-01 15:38:48,731 - TestCheckAddNewPost - INFO - 7. Click By Url button
+2024-04-01 15:38:51,838 - TestCheckAddNewPost - INFO - 8. Enter image url 
+2024-04-01 15:38:51,912 - TestCheckAddNewPost - INFO - Image url entered Successfully
+2024-04-01 15:38:51,913 - TestCheckAddNewPost - INFO - 9. Click select button
+2024-04-01 15:38:53,076 - TestCheckAddNewPost - INFO - Image added to the post Successfully
+2024-04-01 15:38:53,076 - TestCheckAddNewPost - INFO - 10. Click publish button
+2024-04-01 15:38:53,444 - TestCheckAddNewPost - INFO - 11. Click Confirm button
+2024-04-01 15:38:58,766 - TestCheckAddNewPost - INFO - Number of post after deletion 0 - Before Deletion 1
+2024-04-01 15:38:58,766 - TestCheckAddNewPost - INFO - New Post Added Successfully
+2024-04-01 15:38:58,767 - TestCheckAddNewPost - INFO - 12. browser Closed
+2024-04-01 15:41:18,201 - TestCheckAddNewPost - INFO - 
+2024-04-01 15:41:18,201 - TestCheckAddNewPost - INFO - __________New Test Logs__________
+2024-04-01 15:41:18,201 - TestCheckAddNewPost - INFO - 
+2024-04-01 15:41:18,201 - TestCheckAddNewPost - INFO - 1. Open Browser and visit blogger.com
+2024-04-09 00:29:23,762 - TestCheckAddNewPost - INFO - 
+2024-04-09 00:29:23,763 - TestCheckAddNewPost - INFO - __________New Test Logs__________
+2024-04-09 00:29:23,763 - TestCheckAddNewPost - INFO - 
+2024-04-09 00:29:23,764 - TestCheckAddNewPost - INFO - 1. Open Browser and visit blogger.com
+2024-04-09 00:29:29,100 - TestCheckAddNewPost - INFO - Browser opened successfully!
+2024-04-09 00:29:29,100 - TestCheckAddNewPost - INFO - 2.Check the login page and press the login button
+2024-04-09 00:29:29,203 - TestCheckAddNewPost - INFO - login page is ture and Signin clicked
+2024-04-09 00:29:29,203 - TestCheckAddNewPost - INFO - 3.Enter your email address and password, then log in.
+2024-04-09 00:29:36,512 - TestCheckAddNewPost - INFO - User logged in successfully!
+2024-04-09 00:29:36,512 - TestCheckAddNewPost - INFO - 4. check the home page after login
+2024-04-09 00:29:40,685 - TestCheckAddNewPost - INFO - home page is true
+2024-04-09 00:29:42,735 - TestCheckAddNewPost - INFO - Number of post 1 , All (1)
+2024-04-09 00:29:42,735 - TestCheckAddNewPost - INFO - 5. Click New Post Button
+2024-04-09 00:29:48,873 - TestCheckAddNewPost - INFO - New Post page opened Successfully
+2024-04-09 00:29:48,873 - TestCheckAddNewPost - INFO - 6. Click Insert Image icon
+2024-04-09 00:29:50,965 - TestCheckAddNewPost - INFO - 7. Click By Url button
+2024-04-09 00:29:54,098 - TestCheckAddNewPost - INFO - 8. Enter image url 
+2024-04-09 00:29:54,175 - TestCheckAddNewPost - INFO - Image url entered Successfully
+2024-04-09 00:29:54,175 - TestCheckAddNewPost - INFO - 9. Click select button
+2024-04-09 00:29:55,286 - TestCheckAddNewPost - INFO - Image added to the post Successfully
+2024-04-09 00:29:55,286 - TestCheckAddNewPost - INFO - 10. Click publish button
+2024-04-09 00:29:55,758 - TestCheckAddNewPost - INFO - 11. Click Confirm button
+2024-04-09 00:30:01,295 - TestCheckAddNewPost - INFO - Number of post after deletion 1 - Before Deletion 2
+2024-04-09 00:30:01,295 - TestCheckAddNewPost - INFO - New Post Added Successfully
+2024-04-09 00:30:01,479 - TestCheckAddNewPost - INFO - 12. browser Closed

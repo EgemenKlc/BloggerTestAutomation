@@ -81,6 +81,7 @@ class TestCheckAddNewPost:
         self.driver.refresh()
         after_post_addition = self.hp.post_count()
 
+
         if after_post_addition - pre_post_addition == 1:
             self.logger.info(f"Number of post after deletion {pre_post_addition} - Before Deletion {after_post_addition}")
             assert True

@@ -91,7 +91,7 @@ class PostEditPage:
 
     """click select button after entering the image url"""
     def click_Select_URL_Button(self):
-        sleep(3)
+        sleep(1)
         #self.driver.find_element(By.ID,self.locator.Locator_Select_URL_Button_ID.get_locator_string()).click()
         element = BaseFunctions.element_fail(self, self.locator.Locator_Select_URL_Button_ID.get_locator_type(), self.locator.Locator_Select_URL_Button_ID.get_locator_string())
         element.click()

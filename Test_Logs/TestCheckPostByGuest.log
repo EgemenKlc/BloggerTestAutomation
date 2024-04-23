@@ -62,3 +62,13 @@
 2024-04-01 13:37:02,700 - TestCheckPostByGuest - INFO - 3 - Check post visibility 
 2024-04-01 13:37:05,728 - TestCheckPostByGuest - INFO - post is visible 
 2024-04-01 13:37:05,811 - TestCheckPostByGuest - INFO - 4. browser Closed
+2024-04-09 00:30:30,196 - TestCheckPostByGuest - INFO - 
+2024-04-09 00:30:30,197 - TestCheckPostByGuest - INFO - __________New Test Logs__________
+2024-04-09 00:30:30,198 - TestCheckPostByGuest - INFO - 
+2024-04-09 00:30:30,198 - TestCheckPostByGuest - INFO - 1. Open Browser and visit https://onlinebloggertest.blogspot.com/
+2024-04-09 00:30:35,697 - TestCheckPostByGuest - INFO - Browser opened successfully!
+2024-04-09 00:30:35,697 - TestCheckPostByGuest - INFO - 2 - Wait until page loading 
+2024-04-09 00:30:38,715 - TestCheckPostByGuest - INFO - Guest page is True 
+2024-04-09 00:30:38,715 - TestCheckPostByGuest - INFO - 3 - Check post visibility 
+2024-04-09 00:30:41,730 - TestCheckPostByGuest - INFO - post is visible 
+2024-04-09 00:30:41,914 - TestCheckPostByGuest - INFO - 4. browser Closed

@@ -13,7 +13,7 @@ def browser_setup(self, url):
     options = webdriver.ChromeOptions()
     # Disable automatic close
     options.add_experimental_option("detach", True)
-    options.binary_location = "C:\Program Files\Google\Chrome\Application\chrome.exe"
+    #options.binary_location = "C:\Program Files\Google\Chrome\Application\chrome.exe"
 
     # Adding argument to disable the AutomationControlled flag
     options.add_argument("--disable-blink-features=AutomationControlled")
@@ -41,6 +41,7 @@ def take_screenshot(self, method=None):
         file_name = f"C:\\Users\\10132817\\PycharmProjects\\BloggerAutomation\\Error_ScreenShots\\Screenshoot_{method}.png"
         self.driver.save_screenshot(file_name)
     print(f"Ekran görüntüsü '{file_name}' olarak kaydedildi.")
+
 
 def element_fail(self, locatorType, locator):
     try:
