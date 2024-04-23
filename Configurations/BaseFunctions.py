@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
 
-
+#For azure
 def browser_setup(self, url):
     options = webdriver.ChromeOptions()
     # Disable automatic close
