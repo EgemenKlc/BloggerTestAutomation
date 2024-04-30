@@ -15,6 +15,8 @@ class LoginPage:
         def get_locator_string(self):
             return self.value[1]
 
+        ##
+
     #-----Variable_Values----
     user_Mail = Config.user_mail
     user_Password = Config.user_password
